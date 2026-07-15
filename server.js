@@ -7,7 +7,7 @@ const bodyParser = require('body-parser');
 
 const authRoutes = require('./routes/auth');
 const protectedRoutes = require('./routes/protected');
-
+ 
 // Initialize Express app
 const app = express();
 
