@@ -50,4 +50,3 @@ This project implements a secure authentication system where users can register 
 **View Other such Node.js Projects:** https://www.mygreatlearning.com/blog/top-node-js-projects/
 
 View other such [Node.js Projects](https://www.mygreatlearning.com/blog/top-node-js-projects/)
-
